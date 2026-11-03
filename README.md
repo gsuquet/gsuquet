@@ -1,16 +1,15 @@
-### Hi there 👋
+# Gabriel Suquet
 
-<!--
-**gsuquet/gsuquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud and DevOps engineer. I build platforms on Kubernetes and I write infrastructure as code.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [homelab](https://github.com/gsuquet/homelab): my personal infrastructure sandbox. Terraform modules and Ansible roles provision the nodes. Argo CD deploys rendered Helm manifests with GitOps. The same code targets Kind for local tests and K3s on a Raspberry Pi.
+
+## Stack
+
+Kubernetes (K3s, Kind) · Argo CD · Helm · Terraform · Ansible · Sealed Secrets · Cloudflare Tunnels · Renovate · mise
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-suquet-24aa10209/)
